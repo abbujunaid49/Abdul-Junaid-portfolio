@@ -7,7 +7,7 @@ body {
 }
 header {
     background: #183153;
-    color: #fff;
+    color: #000000;
     padding: 2rem 0 1rem 0;
     text-align: center;
 }
@@ -18,7 +18,7 @@ header .subtitle {
     letter-spacing: 0.02em;
 }
 header a {
-    color: #ffd700;
+    color: #000000;
     text-decoration: none;
     margin: 0 0.3em;
 }
