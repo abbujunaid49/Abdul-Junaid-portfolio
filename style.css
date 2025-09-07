@@ -214,8 +214,9 @@ header h1 {
   margin: 0 0 8px 0;
   font-size: 2.2em;
 }
+
 header p {
   margin: 0;
   font-size: 1.2em;
-  color: white;
+  color: #e6e6e6;
 }
