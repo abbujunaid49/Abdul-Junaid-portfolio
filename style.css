@@ -108,4 +108,17 @@ footer {
         padding: 1em 0;
     }
 }
+.certificates-gallery {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+.certificates-gallery img {
+  border: 2px solid #444;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 2px 2px 10px #aaa;
+}
 //style.css
