@@ -1,4 +1,3 @@
 # Abdul-Junaid-portfolio
-<!-- Uploading "Screenshot 2025-09-07 114814.png"... -->
-<!-- Uploading "Screenshot 2025-09-07 114837.png"... -->
-<!-- Uploading "Screenshot 2025-09-07 114847.png"... -->
+<img width="493" height="696" alt="Image" src="https://github.com/user-attachments/assets/98dca6af-69f6-4e39-b699-efed47b6608a" />
+
